@@ -5,11 +5,12 @@ ecommerce project
 
 go to nexifyshop_fronend directory
 
-~ cd nexifyshop_fronend
+~ cd nexifyshop_frontend
 
 to run frontend app in development mode
 
 ~ docker-compose -f docker-compose.dev.yml up -d
+~ docker-compose -f docker-compose.dev.yml up -d --build
 
 to complete shutdown and cleanup.
 

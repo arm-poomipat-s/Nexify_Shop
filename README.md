@@ -1,7 +1,7 @@
 # Nexify_Shop
 ecommerce project
 
-#Front end
+# Front end
 
 go to nexifyshop_fronend directory
 
